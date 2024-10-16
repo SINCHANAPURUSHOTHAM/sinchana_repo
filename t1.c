@@ -1,4 +1,8 @@
 add()
-sub()
+printf(" gdyh"
+		);
+	sub()
+printf("ggd");
+
 mul()
 div()
